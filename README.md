@@ -45,10 +45,8 @@ Set up PostgreSQL to store vectors and assist with querying knowledge from the P
 
 1. Ensure your PostgreSQL server is running locally or remotely.
 2. Create a database and a table for the vector storage:
-   ```sql
-   CREATE DATABASE ai;
-   ```
 3. Adjust the connection URL in the code if necessary (`db_url`).
+
 
 ## Usage
 
